@@ -41,5 +41,5 @@ This tool allows users to:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/algorithmic-auditor.git](https://github.com/your-username/algorithmic-auditor.git)
+git clone [https://github.com/your-username/algorithmic-auditor.git](https://github.com/mangal3108/algorithmic-auditor.git)
 cd algorithmic-auditor
